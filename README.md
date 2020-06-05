@@ -63,8 +63,8 @@ Iniciativa relacionada: La Coalición Pro Acceso [pide en este comunicado](https
 
 ## Firma el manifiesto
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-poiKLstk_V3USbtXXB1l2zcV0mSf785_izEq5KKGrYV2RQ/viewform?embedded=true" width="640" height="853" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+[Firma el manifiesto en este formulario](https://docs.google.com/forms/d/e/1FAIpQLSe-poiKLstk_V3USbtXXB1l2zcV0mSf785_izEq5KKGrYV2RQ/viewform). 
 
 ## Firmas
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRfXznc-1zy8FFpIagd15LxyCGtduQN2O_6HyRHtvqojM0XgKOxcsJSa1UXXhg0FvsozscF6SG6Tv-Z/pubhtml?gid=326946116&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
+Se listarán aquí las firmas recogidas.
