@@ -7,7 +7,7 @@
 * [Firma el manifiesto ](#firma-el-manifiesto)
 * [Firmas](#firmas)
 
-### Resumen
+## Resumen
 
 Ante una pandemia de la escala y gravedad que estamos viviendo con la COVID-19 desde la comunidad científica, periodística y la ciudadanía, conscientes de la dificultad de publicar datos en tiempo real durante una crisis, **proponemos** y solicitamos:
 
@@ -21,7 +21,7 @@ Nuestro objetivo es contribuir al **bien común**, **colaborar** con la Administ
 
 Todavía es posible.
 
-### Manifiesto
+## Manifiesto
 
 _Una pandemia de la escala y gravedad que estamos viviendo con la COVID-19, para la que nadie estaba preparado, es una muestra de hasta qué punto necesitamos datos fidedignos e información para conocer el alcance y profundidad de la propagación de la enfermedad._
 
@@ -55,7 +55,7 @@ Todavía es posible.
 
 Puedes leer una versión más completa de este texto con todas las referencias y aportaciones [pendiente](#).
 
-Puedes consultar este manifiesto en [datoscovid19esposible.github.io/](https://datoscovid19esposible.github.io/)
+Puedes consultar este manifiesto en [datoscovid19esposible.github.io](https://datoscovid19esposible.github.io/)
 
 <hr>
 Iniciativa relacionada: La Coalición Pro Acceso [pide en este comunicado](https://blog.ihr.world/index.php/es/2020/04/27/la-coalicion-pro-acceso-pide-mejor-acceso-a-la-informacion-durante-la-pandemia-de-coronavirus/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
