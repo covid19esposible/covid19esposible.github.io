@@ -1,4 +1,4 @@
-# Todavía es posible
+<h1 id="todavía-es-posible" style="color:aa0000;">Todavía es posible</h1>
 
 ## Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global
 
@@ -44,7 +44,7 @@ Por todo ello, **proponemos** que:
 3. La publicación de los datos se realice en un **repositorio abierto** que, ante cualquier modificación, mantenga los registros históricos y la **trazabilidad** de los cambios realizados. 
 
 4. Los datos sean **transparentes y abiertos**, es decir, que cualquiera sea libre de acceder a ellos, usarlos, modificarlos y compartirlos, siempre que se preserve su autoría y apertura (definición de conocimiento abierto). También que deben publicarse en un formato abierto y accesible, en consonancia con el modelo de datos 5-estrellas, lo que implica su publicación en un formato no propietario y estandarizado .
-
+  
 5. La **actualización** pública de los datos sea, en la medida de lo posible, lo más próxima en el tiempo respecto a su obtención y tratamiento originales..
 
 6. La toma de decisiones que afecten a la publicación de los datos se haga de una manera **transparente**.
@@ -53,11 +53,12 @@ Suscribimos esta propuesta con la intención de contribuir al **bien común**, c
 
 Todavía es posible.
 
+
 Puedes leer [una versión más completa de este texto con todas las referencias y aportaciones recibidas](texto-completo.md).
 
 <hr>
 
-Este manifiesto en [datoscovid19esposible.github.io](https://datoscovid19esposible.github.io/)
+Este manifiesto está disponible en [datoscovid19esposible.github.io](https://datoscovid19esposible.github.io/).
 
 <hr>
 Iniciativa relacionada: La Coalición Pro Acceso [pide en este comunicado](https://blog.ihr.world/index.php/es/2020/04/27/la-coalicion-pro-acceso-pide-mejor-acceso-a-la-informacion-durante-la-pandemia-de-coronavirus/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
