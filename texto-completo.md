@@ -19,10 +19,10 @@ COVID-19 de manera desagregada. Más allá de las series históricas de
 datos ofrecidas a nivel autonómico por el Instituto de Salud Carlos III,
 perteneciente al Ministerio de Ciencia e Innovación[<sup>1</sup>](#1), que
 desde el 21 de mayo no se ha actualizado (con fecha prevista de
-reanudación el 3 de junio<sup>2</sup>), no hay otra fuente unificada
+reanudación el 3 de junio[<sup>2</sup>)](#2), no hay otra fuente unificada
 oficial a nivel estatal. También se anunció una “Oficina del dato” para
 centralizar toda la información disponible en una web
-unificada<sup>3</sup> que no ha llegado a materializarse.
+unificada[<sup>3</sup>](#3) que no ha llegado a materializarse.
 
 Somos conscientes de la dificultad de publicar datos en tiempo real
 durante una crisis como la de la COVID-19 y comprendemos lo compleja que
@@ -44,25 +44,25 @@ situación, pero **creemos** que:
     diagnosticados y pruebas realizadas, nuevos y acumulados, así como
     de número de camas ocupadas y disponibles y otros recursos
     disponibles, de manera agregada, por comunidades autónomas, tal y
-    como se indica en diferentes publicaciones del BOE <sup>4</sup>
-    <sup>5</sup>, ha sido confusa y ha resultado insuficiente para
+    como se indica en diferentes publicaciones del BOE [<sup>4</sup>](#4)
+    [<sup>5</sup>](#5), ha sido confusa y ha resultado insuficiente para
     comprender un fenómeno cuyo desarrollo (y desescalada) se produce
     a nivel local.
 
-  - Se ha publicado sólo un número limitado de datos<sup>6</sup>, lo
+  - Se ha publicado sólo un número limitado de datos[<sup>6</sup>](#6), lo
     que ha impedido conocer la situación real del sistema sanitario,
     así como su nivel de ocupación hospitalaria y de UCI en las
     diferentes comunidades autónomas. Algunas comunidades autónomas sí
     han tratado de hacer un esfuerzo aportando más datos, en ocasiones
     con cierto nivel de desagregación, pero esta información tampoco
     se ha transmitido siempre por las autoridades estatales ni se ha
-    puesto a disposición de la ciudadanía<sup>7</sup>.
+    puesto a disposición de la ciudadanía[<sup>7</sup>](#7).
 
   - Como consecuencia de estas lagunas han surgido
-    iniciativas<sup>8</sup> que, voluntariamente, han dedicado
+    iniciativas[<sup>8</sup>](#8) que, voluntariamente, han dedicado
     esfuerzos y tiempo en construir bases de datos públicas, útiles y
     reutilizables a partir de diversas fuentes de
-    información<sup>9</sup>. Hoy, estas bases de datos están siendo
+    información[<sup>9</sup>](#9). Hoy, estas bases de datos están siendo
     usadas tanto por la comunidad científica como la periodística,
     gracias a que han suplido la ausencia de repositorios oficiales y
     han puesto de manifiesto las enormes carencias de estos, como la
@@ -77,7 +77,7 @@ Por todo ello, los firmantes de este manifiesto **proponemos** que:
     página web accesible, de forma estructurada, abierta, claramente
     vinculada y contextualizada, tras haber sido publicados por la
     agencia o entidad gubernamental encargada de su
-    integración<sup>10</sup>. Esta página web debería incluir,
+    integración[<sup>10</sup>](#10). Esta página web debería incluir,
     además, no sólo los datos mínimos y armonizados que el Ministerio
     de Sanidad está solicitando en ejercicio de sus funciones de
     coordinación a las comunidades autónomas, sino todos los conjuntos
@@ -97,7 +97,7 @@ Por todo ello, los firmantes de este manifiesto **proponemos** que:
     estudio de la evolución de la pandemia.
 
   - La publicación de los datos se realice en un **repositorio
-    abierto<sup>11</sup>** que, ante cualquier modificación, mantenga
+    abierto**[<sup>11</sup>](#11) que, ante cualquier modificación, mantenga
     los registros históricos y la trazabilidad de los cambios
     realizados. Este repositorio debería estar integrado con los
     portales de transparencia tanto de la administración central como
@@ -108,13 +108,13 @@ Por todo ello, los firmantes de este manifiesto **proponemos** que:
     cuando cualquiera es libre de acceder a ellos, usarlos,
     modificarlos y compartirlos, estando sujetos a lo sumo a medidas
     que preserven su autoría y apertura (definición de conocimiento
-    abierto<sup>12</sup>). Asimismo, deben publicarse en un formato
+    abierto[<sup>12</sup>](#12)). Asimismo, deben publicarse en un formato
     abierto y accesible, en consonancia con el modelo de datos
-    5-estrellas<sup>13</sup>, lo que implica su publicación en un
+    5-estrellas[<sup>13</sup>](#13), lo que implica su publicación en un
     formato no propietario y estandarizado (como, por ejemplo, los
     archivos de extensión CSV, XML o JSON), que permita su
     reutilización más allá de la mera consulta (en contraposición a
-    formatos como los de extensión PDF<sup>14</sup>).
+    formatos como los de extensión PDF[<sup>14</sup>](#14)).
 
   - La actualización pública de los datos sea, en lo posible, lo más
     próxima en el tiempo respecto a su obtención y tratamiento
@@ -144,15 +144,15 @@ Iniciativa relacionada: La *Coalición Pro Acceso* [pide en este comunicado](htt
 
 1. <span id="1"></span>[https://cnecovid.isciii.es/covid19/\#documentaci%C3%B3n-y-datos](https://cnecovid.isciii.es/covid19/#documentaci%C3%B3n-y-datos)
 
-2. Nota de prensa en Europa Press: [https://www.europapress.es/asturias/noticia-simon-insiste-serie-fallecidos-corregira-importante-ahora-son-muertos-diarios-20200529202654.html](https://www.europapress.es/asturias/noticia-simon-insiste-serie-fallecidos-corregira-importante-ahora-son-muertos-diarios-20200529202654.html)
+2. <span id="2"></span>Nota de prensa en Europa Press: [https://www.europapress.es/asturias/noticia-simon-insiste-serie-fallecidos-corregira-importante-ahora-son-muertos-diarios-20200529202654.html](https://www.europapress.es/asturias/noticia-simon-insiste-serie-fallecidos-corregira-importante-ahora-son-muertos-diarios-20200529202654.html)
 
-3. Nota de prensa en Europa Press: [https://www.europapress.es/economia/noticia-gobierno-crea-web-unificada-oficina-dato-estudio-movilidad-luchar-contra-covid-19-20200323151757.html](https://www.europapress.es/economia/noticia-gobierno-crea-web-unificada-oficina-dato-estudio-movilidad-luchar-contra-covid-19-20200323151757.html)
+3. <span id="3"></span>Nota de prensa en Europa Press: [https://www.europapress.es/economia/noticia-gobierno-crea-web-unificada-oficina-dato-estudio-movilidad-luchar-contra-covid-19-20200323151757.html](https://www.europapress.es/economia/noticia-gobierno-crea-web-unificada-oficina-dato-estudio-movilidad-luchar-contra-covid-19-20200323151757.html)
 
-4. BOE de 15 de marzo: [https://www.boe.es/diario\_boe/txt.php?id=BOE-A-2020-3702](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-3702)
+4. <span id="4"></span>BOE de 15 de marzo: [https://www.boe.es/diario\_boe/txt.php?id=BOE-A-2020-3702](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-3702)
 
-5. BOE de 16 de abril: [https://www.boe.es/diario\_boe/txt.php?id=BOE-A-2020-4493](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4493)
+5. <span id="5"></span>BOE de 16 de abril: [https://www.boe.es/diario\_boe/txt.php?id=BOE-A-2020-4493](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4493)
 
-6. Se han publicado a nivel nacional los datos de hospitalización y UCI
+6. <span id="6"></span>Se han publicado a nivel nacional los datos de hospitalización y UCI
 acumulados por COVID-19, pero no así en todos los casos los de
 prevalencia; ya no se publican los positivos por anticuerpos; no se han
 publicado a nivel nacional los fallecidos sospechosos; no se ha
@@ -175,36 +175,34 @@ tampoco se sabe a cuántas personas se está rastreando al día, ni qué
 porcentaje de ellas da positivo, ni cuántos rastreadores contratados
 hay, por población y tasa de contagio.
 
-7. Como ocurre en los casos de los los datos de prevalencia de
+7. <span id="7"></span>Como ocurre en los casos de los los datos de prevalencia de
 hospitalizaciones que están publicando algunas CC. AA. como Castilla y
 León; o los datos de fallecidos sospechosos de covid que están
 publicando Cataluña y Madrid, indicando fallecidos en hospitales,
 residencias o domicilios.
 
-8. Por ejemplo, Datadista ([https://github.com/datadista/datasets/tree/master/COVID%2019](https://github.com/datadista/datasets/tree/master/COVID%2019), Fundación Civio
+8. <span id="8"></span>Por ejemplo, Datadista ([https://github.com/datadista/datasets/tree/master/COVID%2019](https://github.com/datadista/datasets/tree/master/COVID%2019), Fundación Civio
 ([https://datos.civio.es/dataset/pcr-coronavirus-covid19-espana-comunidades-autonomas/](https://datos.civio.es/dataset/pcr-coronavirus-covid19-espana-comunidades-autonomas/)), Geovoluntarios ([https://www.datoscovid.es/](https://www.datoscovid.es/)) o la iniciativa colectiva esCOVID19data [https://github.com/montera34/escovid19data](https://github.com/montera34/escovid19data).
 
-9\. No hay más que ver la disparidad y diversidad de fuentes utilizadas
+9\. <span id="9"></span>No hay más que ver la disparidad y diversidad de fuentes utilizadas
 sólo para construir el conjunto de datos provinciales esCOVID19data en
 su wiki pública:
 [https://github.com/montera34/escovid19data/wiki](https://github.com/montera34/escovid19data/wiki)
 
-10\. De hecho, ya existen iniciativas gubernamentales que trabajan en
+10\. <span id="10"></span>De hecho, ya existen iniciativas gubernamentales que trabajan en
 esta línea y podrían realizar dicha integración, como
 [https://red.es/redes/](https://red.es/redes/)
 o
 [https://datos.gob.es/](https://datos.gob.es/)
 
-11\. Como ocurre en el caso del gobierno italiano, que publica sus datos
+11\. <span id="11"></span>Como ocurre en el caso del gobierno italiano, que publica sus datos
 de manera oficial en
 [https://github.com/pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19)
 
-12\.
-[https://opendefinition.org/od/2.1/es/](https://opendefinition.org/od/2.1/es/)
+12\. <span id="12"></span>[https://opendefinition.org/od/2.1/es/](https://opendefinition.org/od/2.1/es/)
 
-13\.
-[https://5stardata.info/es/](https://5stardata.info/es/)
+13\. <span id="13"></span>[https://5stardata.info/es/](https://5stardata.info/es/)
 
-14\. Véase como ejemplo las capacidades de exportación de datos y API en
+14\. <span id="14"></span>Véase como ejemplo las capacidades de exportación de datos y API en
 la web de datos de Castilla y León: 
 [https://analisis.datosabiertos.jcyl.es/explore/dataset/tasa-mortalidad-covid-por-zonas-basicas-de-salud/export/](https://analisis.datosabiertos.jcyl.es/explore/dataset/tasa-mortalidad-covid-por-zonas-basicas-de-salud/export/)
