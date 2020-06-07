@@ -53,9 +53,11 @@ Suscribimos esta propuesta con la intención de contribuir al **bien común**, c
 
 Todavía es posible.
 
-Puedes leer una versión más completa de este texto con todas las referencias y aportaciones [pendiente](#).
+Puedes leer [una versión más completa de este texto con todas las referencias y aportaciones recibidas](texto-completo.md).
 
-Puedes consultar este manifiesto en [datoscovid19esposible.github.io](https://datoscovid19esposible.github.io/)
+<hr>
+
+Este manifiesto en [datoscovid19esposible.github.io](https://datoscovid19esposible.github.io/)
 
 <hr>
 Iniciativa relacionada: La Coalición Pro Acceso [pide en este comunicado](https://blog.ihr.world/index.php/es/2020/04/27/la-coalicion-pro-acceso-pide-mejor-acceso-a-la-informacion-durante-la-pandemia-de-coronavirus/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
