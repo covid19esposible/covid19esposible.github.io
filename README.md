@@ -1,5 +1,5 @@
-<h1 id="todavía-es-posible" style="color:aa0000;">Todavía es posible</h1>
-
+<h1 id="todavía-es-posible" style="color:#aa0000;">Todavía es posible</h1>
+<meta property="og:title" content="Todavía es posible. Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global">
 ## Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global
 
 * [Resumen](#resumen)

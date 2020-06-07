@@ -1,4 +1,4 @@
-<h1 id="todavía-es-posible" style="color:aa0000;">Todavía es posible</h1>
+<h1 id="todavía-es-posible" style="color:#aa0000;">Todavía es posible (texto completo)</h1>
 
 ## Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global
 
@@ -17,7 +17,7 @@ comunidades científica y periodística, así como la ciudadanía en
 general, hemos esperado que se publicaran datos abiertos sobre la
 COVID-19 de manera desagregada. Más allá de las series históricas de
 datos ofrecidas a nivel autonómico por el Instituto de Salud Carlos III,
-perteneciente al Ministerio de Ciencia e Innovación<sup>1</sup>, que
+perteneciente al Ministerio de Ciencia e Innovación[<sup>1</sup>](#1), que
 desde el 21 de mayo no se ha actualizado (con fecha prevista de
 reanudación el 3 de junio<sup>2</sup>), no hay otra fuente unificada
 oficial a nivel estatal. También se anunció una “Oficina del dato” para
@@ -142,7 +142,7 @@ Iniciativa relacionada: La *Coalición Pro Acceso* [pide en este comunicado](htt
 
 # Notas
 
-1. [https://cnecovid.isciii.es/covid19/\#documentaci%C3%B3n-y-datos](https://cnecovid.isciii.es/covid19/#documentaci%C3%B3n-y-datos)
+1. <span id="1"></span>[https://cnecovid.isciii.es/covid19/\#documentaci%C3%B3n-y-datos](https://cnecovid.isciii.es/covid19/#documentaci%C3%B3n-y-datos)
 
 2. Nota de prensa en Europa Press: [https://www.europapress.es/asturias/noticia-simon-insiste-serie-fallecidos-corregira-importante-ahora-son-muertos-diarios-20200529202654.html](https://www.europapress.es/asturias/noticia-simon-insiste-serie-fallecidos-corregira-importante-ahora-son-muertos-diarios-20200529202654.html)
 
