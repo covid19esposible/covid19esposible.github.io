@@ -1,6 +1,8 @@
-<h1 id="todavía-es-posible" style="color:#aa0000;">Todavía es posible (texto completo)</h1>
+<h1 id="todavía-es-posible" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#AA0000;">Todavía es posible (texto completo)</span> <br><span style="padding-bottom: 0.3em;font-size: 1.5em;border-bottom:0px;margin-top:6px;color:black;">Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global</span></h1>
 
 ## Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global
+
+(Existe una [versión resumida de este texto](/)).
 
 *Una pandemia de la escala y gravedad que estamos viviendo con a
 COVID-19, para la que nadie estaba preparado y en la que los distintos
@@ -138,9 +140,18 @@ la excepción.
 
 Todavía es posible.
 
-Iniciativa relacionada: La *Coalición Pro Acceso* [pide en este comunicado](https://blog.ihr.world/index.php/es/2020/04/27/la-coalicion-pro-acceso-pide-mejor-acceso-a-la-informacion-durante-la-pandemia-de-coronavirus/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
+<hr>
 
-# Notas
+Puedes leer [una versión resumida de este texto](/).
+
+<hr>
+
+Este manifiesto está disponible en [datoscovid19esposible.github.io](https://datoscovid19esposible.github.io/).
+
+<hr>
+Iniciativa relacionada: la *Coalición Pro Acceso* [pide en este comunicado](https://blog.ihr.world/index.php/es/2020/04/27/la-coalicion-pro-acceso-pide-mejor-acceso-a-la-informacion-durante-la-pandemia-de-coronavirus/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
+
+## Notas
 
 1. <span id="1"></span>[https://cnecovid.isciii.es/covid19/\#documentaci%C3%B3n-y-datos](https://cnecovid.isciii.es/covid19/#documentaci%C3%B3n-y-datos)
 

@@ -1,4 +1,4 @@
-<h1 id="todavía-es-posible" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#AA0000;">Todavía es posible</span> <br><span style="padding-bottom: 0.3em;font-size: 1.5em;border-bottom:0px;margin-top:6px;color:black;>Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global</span></h1>
+<h1 id="todavía-es-posible" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#AA0000;">Todavía es posible</span> <br><span style="padding-bottom: 0.3em;font-size: 1.5em;border-bottom:0px;margin-top:6px;color:black;">Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global</span></h1>
 
 * [Resumen](#resumen)
 * [Manifiesto](#manifiesto)
@@ -75,5 +75,6 @@ Se listarán aquí las firmas recogidas.
 <style>
 h1:nth-child(1) {
   visibility: hidden;
+  line-height: 0;
 }
 </style>
