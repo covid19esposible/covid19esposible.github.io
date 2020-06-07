@@ -217,3 +217,12 @@ de manera oficial en
 14\. <span id="14"></span>Véase como ejemplo las capacidades de exportación de datos y API en
 la web de datos de Castilla y León: 
 [https://analisis.datosabiertos.jcyl.es/explore/dataset/tasa-mortalidad-covid-por-zonas-basicas-de-salud/export/](https://analisis.datosabiertos.jcyl.es/explore/dataset/tasa-mortalidad-covid-por-zonas-basicas-de-salud/export/)
+
+
+<meta property="og:title" content="Todavía es posible (texto completo). Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global">
+<style>
+h1:nth-child(1) {
+  visibility: hidden;
+  line-height: 0;
+}
+</style>
