@@ -1,6 +1,4 @@
-<h1 id="todavía-es-posible" style="color:#aa0000;">Todavía es posible</h1>
-<meta property="og:title" content="Todavía es posible. Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global">
-## Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global
+<h1 id="todavía-es-posible" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#AA0000;">Todavía es posible</span> <br><span style="padding-bottom: 0.3em;font-size: 1.5em;border-bottom:0px;margin-top:6px;color:black;>Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global</span></h1>
 
 * [Resumen](#resumen)
 * [Manifiesto](#manifiesto)
@@ -53,6 +51,7 @@ Suscribimos esta propuesta con la intención de contribuir al **bien común**, c
 
 Todavía es posible.
 
+<hr>
 
 Puedes leer [una versión más completa de este texto con todas las referencias y aportaciones recibidas](texto-completo.md).
 
@@ -61,7 +60,7 @@ Puedes leer [una versión más completa de este texto con todas las referencias 
 Este manifiesto está disponible en [datoscovid19esposible.github.io](https://datoscovid19esposible.github.io/).
 
 <hr>
-Iniciativa relacionada: La Coalición Pro Acceso [pide en este comunicado](https://blog.ihr.world/index.php/es/2020/04/27/la-coalicion-pro-acceso-pide-mejor-acceso-a-la-informacion-durante-la-pandemia-de-coronavirus/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
+Iniciativa relacionada: la *Coalición Pro Acceso* [pide en este comunicado](https://blog.ihr.world/index.php/es/2020/04/27/la-coalicion-pro-acceso-pide-mejor-acceso-a-la-informacion-durante-la-pandemia-de-coronavirus/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
 
 
 ## Firma el manifiesto
@@ -71,3 +70,10 @@ Iniciativa relacionada: La Coalición Pro Acceso [pide en este comunicado](https
 ## Firmas
 
 Se listarán aquí las firmas recogidas.
+
+<meta property="og:title" content="Todavía es posible. Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global">
+<style>
+h1:nth-child(1) {
+  visibility: hidden;
+}
+</style>
