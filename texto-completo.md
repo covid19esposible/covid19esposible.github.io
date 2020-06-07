@@ -1,4 +1,4 @@
-<h1 id="todavía-es-posible" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#AA0000;">Todavía es posible (texto completo)</span> <br><span style="padding-bottom: 0.3em;font-size: 1.5em;border-bottom:0px;margin-top:6px;color:black;">Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global</span></h1>
+<h1 id="todavía-es-posible" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#AA0000;">Todavía es posible (texto completo)</span> <br><span style="padding-bottom: 0.3em;font-size: 0.9em;border-bottom:0px;margin-top:6px;color:black;">Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global</span></h1>
 
 ## Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global
 
@@ -184,7 +184,7 @@ positivo en PCR y que después ya dan negativo o se les considera curados
 mediante otro criterio. Acerca de los rastreados y los rastreadores,
 tampoco se sabe a cuántas personas se está rastreando al día, ni qué
 porcentaje de ellas da positivo, ni cuántos rastreadores contratados
-hay, por población y tasa de contagio.
+hay.
 
 7. <span id="7"></span>Como ocurre en los casos de los los datos de prevalencia de
 hospitalizaciones que están publicando algunas CC. AA. como Castilla y
