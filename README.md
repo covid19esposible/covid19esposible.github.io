@@ -2,8 +2,8 @@
 
 * [Resumen](#resumen)
 * [Manifiesto](#manifiesto)
-* [Firma el manifiesto ](#firma-el-manifiesto)
 * [Firmas](#firmas)
+* [Firma el manifiesto ](#firma-el-manifiesto)
 
 ## Resumen
 
@@ -64,13 +64,13 @@ Este manifiesto está disponible en [datoscovid19esposible.github.io](https://da
 Iniciativa relacionada: la *Coalición Pro Acceso* [pide en este comunicado](https://www.access-info.org/es/blog/2020/04/27/espana-acceso-informacion-covid19/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
 
 
+## Firmas
+
+Pablo Rey Mazón, investigador, Montera34 (@numeroteca); Fco. Javier Cantón Correa, docente e investigador - Medialab UGR, Universidad de Granada (@ProsumidorSoc); Mario Pérez-Montoro, Universidad de Barcelona (@mperezmontoro); Alejandro Rivero, BIFI - Universidad Zaragoza (@arivero); @alfonsotwr; Pablo Aragón, investigador (@elaragon); roxu Pedro Álvarez  (@rxnetwalker); Alberto Corsín Jiménez, Consejo Superior de Investigaciones Científicas (@acorsin); Carlos Cámara Menoyo, Universitat Oberta de Catalunya (@carlescamara); Andrés Boix Palop, Universitat de València (@Andres_Boix); David Rodríguez Mateos, Universidad Carlos III de Madrid (@puzzle72); Alfonso Sánchez Uzábal, Montera34 (@skotperez); Luis Cervantes Fructuoso, ingeniero técnico agrícola (@Luthex); Martín Alonso Orgaz, matemático (@Alonsorgaz); Concha Catalán, periodista (@conchacatalan); JJ Merelo, profesor universidad (@jjmerelo); María del Mar Rueda García, profesora universitaria, Universidad de Granada; María Jesús Mazón Calpena, investigadora científica, CSIC; Manuel Muñoz Herrera, sociólogo, Ayuntamiento de Illescas, Toledo (@manoloyuri); Carlos J. Gil Bellosta, consultor estadístico, Circiter S.L. (@gilbellosta); Manuel Muñoz Herrera, Sociólogo, Ayto de Illescas; Daniel González Peña Personal, docente e investigador, Universidade de Vigo (@lipido); Alberto Ortiz de Zarate, aprendiz (@alorza); Jesus Molano Mateos, médico; José Luis Cañadas Reche, Comunidad R-Hispano (@joscani); Ramon Tejedor Fontanet, profesor de matemáticas (@Tejerauskas).
+
 ## Firma el manifiesto
 
 [Firma el manifiesto en este formulario](https://docs.google.com/forms/d/e/1FAIpQLSe-poiKLstk_V3USbtXXB1l2zcV0mSf785_izEq5KKGrYV2RQ/viewform). 
-
-## Firmas
-
-Se listarán aquí las firmas recogidas.
 
 <meta property="og:title" content="Todavía es posible. Por unos datos públicos accesibles para la construcción de un conocimiento compartido en tiempos de pandemia global">
 <style>

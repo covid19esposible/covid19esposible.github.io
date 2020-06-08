@@ -142,7 +142,7 @@ Todavía es posible.
 
 <hr>
 
-Puedes leer [una versión resumida de este texto](/).
+Puedes leer [una versión resumida de este texto](/) y [quienes lo suscriben](/#firmas).
 
 <hr>
 
