@@ -195,26 +195,26 @@ residencias o domicilios.
 8. <span id="8"></span>Por ejemplo, Datadista ([https://github.com/datadista/datasets/tree/master/COVID%2019](https://github.com/datadista/datasets/tree/master/COVID%2019), Fundación Civio
 ([https://datos.civio.es/dataset/pcr-coronavirus-covid19-espana-comunidades-autonomas/](https://datos.civio.es/dataset/pcr-coronavirus-covid19-espana-comunidades-autonomas/)), Geovoluntarios ([https://www.datoscovid.es/](https://www.datoscovid.es/)) o la iniciativa colectiva esCOVID19data [https://github.com/montera34/escovid19data](https://github.com/montera34/escovid19data).
 
-9\. <span id="9"></span>No hay más que ver la disparidad y diversidad de fuentes utilizadas
+9. <span id="9"></span>No hay más que ver la disparidad y diversidad de fuentes utilizadas
 sólo para construir el conjunto de datos provinciales esCOVID19data en
 su wiki pública:
 [https://github.com/montera34/escovid19data/wiki](https://github.com/montera34/escovid19data/wiki)
 
-10\. <span id="10"></span>De hecho, ya existen iniciativas gubernamentales que trabajan en
+10. <span id="10"></span>De hecho, ya existen iniciativas gubernamentales que trabajan en
 esta línea y podrían realizar dicha integración, como
 [https://red.es/redes/](https://red.es/redes/)
 o
 [https://datos.gob.es/](https://datos.gob.es/)
 
-11\. <span id="11"></span>Como ocurre en el caso del gobierno italiano, que publica sus datos
+11. <span id="11"></span>Como ocurre en el caso del gobierno italiano, que publica sus datos
 de manera oficial en
 [https://github.com/pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19)
 
-12\. <span id="12"></span>[https://opendefinition.org/od/2.1/es/](https://opendefinition.org/od/2.1/es/)
+12. <span id="12"></span>[https://opendefinition.org/od/2.1/es/](https://opendefinition.org/od/2.1/es/)
 
-13\. <span id="13"></span>[https://5stardata.info/es/](https://5stardata.info/es/)
+13. <span id="13"></span>[https://5stardata.info/es/](https://5stardata.info/es/)
 
-14\. <span id="14"></span>Véase como ejemplo las capacidades de exportación de datos y API en
+14. <span id="14"></span>Véase como ejemplo las capacidades de exportación de datos y API en
 la web de datos de Castilla y León: 
 [https://analisis.datosabiertos.jcyl.es/explore/dataset/tasa-mortalidad-covid-por-zonas-basicas-de-salud/export/](https://analisis.datosabiertos.jcyl.es/explore/dataset/tasa-mortalidad-covid-por-zonas-basicas-de-salud/export/)
 
