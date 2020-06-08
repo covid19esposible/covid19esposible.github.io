@@ -7,7 +7,7 @@
 
 ## Resumen
 
-Ante una pandemia de la escala y gravedad que estamos viviendo con la COVID-19 desde la comunidad científica, periodística y la ciudadanía, conscientes de la dificultad de publicar datos en tiempo real durante una crisis, **proponemos** y solicitamos:
+Ante una pandemia de la escala y gravedad que estamos viviendo con COVID-19 desde la comunidad científica, periodística y la ciudadanía, conscientes de la dificultad de publicar datos en tiempo real durante una crisis, **proponemos** y solicitamos:
 
 * Que todos los datos recabados por las administraciones públicas sean **públicamente accesibles para toda la ciudadanía**, de forma estructurada, abierta, claramente vinculada y contextualizada, tras haber sido publicados por la agencia o entidad gubernamental encargada de su integración.
 * Que los datos tengan un **nivel de desagregación suficiente**: mínimo, a nivel provincial o por área sanitaria, así como que estén disponibles las series temporales. Todo ello manteniendo la necesaria y debida **anonimización** de los datos.
@@ -15,13 +15,14 @@ Ante una pandemia de la escala y gravedad que estamos viviendo con la COVID-19 d
 * Que la **actualización** pública de los datos sea, en lo posible, lo más próxima en el tiempo respecto a su obtención y tratamiento originales.
 * La toma de decisiones que afecten a la publicación de los datos se haga de una manera completamente **transparente** y permita la **trazabilidad** de los mismos.
 
-Nuestro objetivo es contribuir al **bien común**, **colaborar** con la Administración, seguir trabajando para conseguir que el **acceso al conocimiento** sobre esta pandemia sea **libre** y, así, no sólo favorecer **una ciudadanía** mejor informada, sino también mejor **capacitada** para colaborar en la lucha contra ésta y futuras crisis. Y trabajar de esta manera **transparente y coordinada** debería ser la norma a partir de ahora, no la excepción.
+Nuestro objetivo es contribuir al **bien común**, seguir trabajando para conseguir que el **acceso al conocimiento** sobre esta pandemia sea **libre** y, así, no sólo favorecer **una ciudadanía** mejor informada, sino también mejor **capacitada** para colaborar en la lucha contra ésta y futuras crisis. Y trabajar de esta manera **transparente y coordinada** debería ser la norma a partir de ahora, no la excepción.
 
-Todavía es posible.
+**Todavía es posible**.
+
 
 ## Manifiesto
 
-_Una pandemia de la escala y gravedad que estamos viviendo con la COVID-19, para la que nadie estaba preparado, es una muestra de hasta qué punto necesitamos datos fidedignos e información para conocer el alcance y profundidad de la propagación de la enfermedad._
+_Una pandemia de la escala y gravedad que estamos viviendo con COVID-19, para la que nadie estaba preparado, es una muestra de hasta qué punto necesitamos datos fidedignos e información para conocer el alcance y profundidad de la propagación de la enfermedad._
 
 Desde la declaración del Estado de Alarma las comunidades científica y periodística, así como la ciudadanía en general, hemos esperado que se publicaran datos abiertos sobre la COVID-19 de manera desagregada. Más allá de las series históricas de datos ofrecidas a nivel autonómico por el Instituto de Salud Carlos III, no hay otra fuente unificada oficial a nivel estatal. Somos conscientes de la dificultad de publicar datos en tiempo real durante una crisis y comprendemos lo compleja que puede llegar a ser la coordinación de múltiples administraciones en esta situación, pero **creemos**  que:
 
@@ -41,15 +42,15 @@ Por todo ello, **proponemos** que:
 
 3. La publicación de los datos se realice en un **repositorio abierto** que, ante cualquier modificación, mantenga los registros históricos y la **trazabilidad** de los cambios realizados. 
 
-4. Los datos sean **transparentes y abiertos**, es decir, que cualquiera sea libre de acceder a ellos, usarlos, modificarlos y compartirlos, siempre que se preserve su autoría y apertura (definición de conocimiento abierto). También que deben publicarse en un formato abierto y accesible, en consonancia con el modelo de datos 5-estrellas, lo que implica su publicación en un formato no propietario y estandarizado .
+4. Los datos sean **transparentes y abiertos**, es decir, que cualquiera sea libre de acceder a ellos, usarlos, modificarlos y compartirlos, siempre que se preserve su autoría y apertura (definición de conocimiento abierto). También que deben publicarse en un formato abierto y accesible, en consonancia con el modelo de datos 5-estrellas, lo que implica su publicación en un formato no propietario y estandarizado.
   
-5. La **actualización** pública de los datos sea, en la medida de lo posible, lo más próxima en el tiempo respecto a su obtención y tratamiento originales..
+5. La **actualización** pública de los datos sea, en la medida de lo posible, lo más próxima en el tiempo respecto a su obtención y tratamiento originales.
 
 6. La toma de decisiones que afecten a la publicación de los datos se haga de una manera **transparente**.
 
-Suscribimos esta propuesta con la intención de contribuir al **bien común**, colaborar con la Administración, seguir trabajando para conseguir que el **acceso al conocimiento** sobre esta pandemia sea **libre** y, así, no sólo favorecer una **ciudadanía** mejor informada, sino también mejor **capacitada** para colaborar en la lucha contra ésta y futuras crisis. Y trabajar de esta manera **transparente** y **coordinada** debería ser la norma a partir de ahora, no la excepción.
+Suscribimos esta propuesta con la intención de contribuir al **bien común**, seguir trabajando para conseguir que el **acceso al conocimiento** sobre esta pandemia sea **libre** y, así, no sólo favorecer una **ciudadanía** mejor informada, sino también mejor **capacitada** para colaborar en la lucha contra ésta y futuras crisis. Y trabajar de esta manera **transparente** y **coordinada** debería ser la norma a partir de ahora, no la excepción.
 
-Todavía es posible.
+**Todavía es posible**.
 
 <hr>
 

@@ -4,7 +4,7 @@
 
 (Existe una [versión resumida de este texto](/)).
 
-*Una pandemia de la escala y gravedad que estamos viviendo con a
+*Una pandemia de la escala y gravedad que estamos viviendo con
 COVID-19, para la que nadie estaba preparado y en la que los distintos
 gobiernos han reaccionado de manera desigual, es una muestra de hasta
 qué punto necesitamos datos fidedignos e información transparente para
@@ -130,7 +130,7 @@ Por todo ello, los firmantes de este manifiesto **proponemos** que:
     en la que se han obtenido cada uno de ellos.
 
 Y para que quede constancia, suscribimos esta propuesta con la intención
-de contribuir al **bien común**, **colaborar** con la Administración,
+de contribuir al **bien común**, 
 seguir trabajando para conseguir que el **acceso al conocimiento** sobre
 esta pandemia sea **libre** y, así, no sólo favorecer una **ciudadanía**
 mejor informada, sino también mejor **capacitada** para colaborar en la
@@ -181,10 +181,10 @@ información se ha facilitado o es que no se han publicado. Tampoco se
 han homogeneizado criterios para determinar si una persona se ha curado
 o no, ni se está publicando la cifra de personas que alguna vez dieron
 positivo en PCR y que después ya dan negativo o se les considera curados
-mediante otro criterio. Acerca de los rastreados y los rastreadores,
-tampoco se sabe a cuántas personas se está rastreando al día, ni qué
-porcentaje de ellas da positivo, ni cuántos rastreadores contratados
-hay.
+mediante otro criterio. Acerca de los rastreados y los rastreadores, 
+tampoco se sabe a cuántas personas se está rastreando al día, 
+ni qué porcentaje da positivo, ni cuántos rastreadores contratados hay.
+
 
 7. <span id="7"></span>Como ocurre en los casos de los los datos de prevalencia de
 hospitalizaciones que están publicando algunas CC. AA. como Castilla y
