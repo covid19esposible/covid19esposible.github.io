@@ -149,7 +149,7 @@ Puedes leer [una versión resumida de este texto](/).
 Este manifiesto está disponible en [datoscovid19esposible.github.io](https://datoscovid19esposible.github.io/).
 
 <hr>
-Iniciativa relacionada: la *Coalición Pro Acceso* [pide en este comunicado](https://blog.ihr.world/index.php/es/2020/04/27/la-coalicion-pro-acceso-pide-mejor-acceso-a-la-informacion-durante-la-pandemia-de-coronavirus/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
+Iniciativa relacionada: la *Coalición Pro Acceso* [pide en este comunicado](https://www.access-info.org/es/blog/2020/04/27/espana-acceso-informacion-covid19/) al Gobierno que garantice el ejercicio del derecho de acceso a la información.
 
 ## Notas
 
